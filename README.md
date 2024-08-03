@@ -1,6 +1,6 @@
 - 👋 Hi, I am Shital Prashant Kharde
 - 👀 I am interested in  Data Analysis ,Machine Learning
-- 🌱 I am currently learning Data Science and Artifical Intelligence
+- 🌱 I am currently done Data Science and Artifical Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shitalvr29@gmail.com
 
