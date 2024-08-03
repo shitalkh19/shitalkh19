@@ -1,4 +1,4 @@
-- 👋 Hi, I am Shitl Prashant Kharde
+- 👋 Hi, I am Shital Prashant Kharde
 - 👀 I am interested in  Data Analysis ,Machine Learning
 - 🌱 I am currently learning Data Science and Artifical Intelligence
 - 💞️ I’m looking to collaborate on ...
